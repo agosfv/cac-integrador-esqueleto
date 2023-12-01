@@ -84,7 +84,7 @@ public class Oradores {
 	public void setFechaAlta(LocalDate fechaAlta) {
 		this.fechaAlta = fechaAlta;
 	}
-	 
+	  
 	 
 	}
 
